@@ -1,7 +1,7 @@
-  so # This is a basic workflow to help you get started with Actions
+ so so # This is a basic workflow to help you get started with Actions
 on:
 push:
-branches:
+branches: 
 main
 release/*
 name: Ubuntu
