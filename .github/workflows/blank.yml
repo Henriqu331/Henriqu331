@@ -1,4 +1,4 @@
-imput a = input("Entre com um numero:")
+
 if a < 
  print a," é negativo"
 print "Obrigado!"
