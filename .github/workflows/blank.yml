@@ -1,4 +1,4 @@
-a= imput a = input("Entre com um numero:")
+imput a = input("Entre com um numero:")
 if a < 0:
  print a," é negativo"
 print "Obrigado!"
