@@ -3,5 +3,4 @@ if a <
  print a," é negativo"
 print "Obrigado!"
 # seleciona os caracteres da lista e armazena na
-variávei 'senha'
-senha = []
+
